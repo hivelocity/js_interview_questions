@@ -1,5 +1,5 @@
 /**
-    Explain what will be logged from this code snippet
+    What will be logged from this code snippet?
 */
 
 (function() {

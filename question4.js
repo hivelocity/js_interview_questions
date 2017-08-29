@@ -1,5 +1,5 @@
 /**
-    What is the difference between there two expressions?
+    What will be logged from this code snippet?
 */
 
 for (var i = 0; i < 4; i++) {

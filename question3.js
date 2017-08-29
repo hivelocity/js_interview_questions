@@ -1,5 +1,5 @@
 /**
-    How would you calculate the length of the associative array
+    How would you calculate the length of this object?
 */
 
 var counterArray = {

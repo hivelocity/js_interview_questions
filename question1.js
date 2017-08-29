@@ -1,5 +1,5 @@
 /**
-    What values will be logged?
+    What will be logged from this code snippet?
 */
 
 console.log(false == '0');

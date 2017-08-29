@@ -1,5 +1,5 @@
 /**
-    What is the difference between the function declarations above?
+    What is the difference between the function declarations below?
 */
 
 var foo = function() {
